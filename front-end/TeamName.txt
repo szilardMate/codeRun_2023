@@ -1,0 +1,4 @@
+Team: SoftCore;
+Members:  Vale Catalin,
+          Gyorke Tudor,
+          Eddie Racz;
