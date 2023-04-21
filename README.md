@@ -10,17 +10,14 @@ In order to facilitate development the following applications should be present 
 * VSCode [see download page](https://code.visualstudio.com/download) (Any other JavaScript IDE is accepted)
 
 ## Acquiring the code
-The code can be cloned via the github ui (or) by running the following command (naturally these operations can be performed via the UI of the preferred IDE):
-```shell
-git clone https://github.com/szilardMate/codeRun_2023.git
-```
-Create a dedicated branch using the following command:
-```shell
-git checkout -b myTeamName
-git push -u origin myTeamName
-```
+On person forks the repository and adds the other team members as contributors.
+Once a fork is created all of the team members can clone the forked repository and proceed with the preferred collaboration style.
 
-Changes can be periodically committed using the following command:
+When evaluating the application only  fork\`s `master` branch will be taken into account (if other feature branches where used by team members please proceed to merge them)
 
-# Back End
+Please periodically commit changes.
 
+**As a first step please create a readme file containing all of the name of each team member.**
+
+## Resources
+There is a resource folder which contains a CSV file which will be required for one of the challenges.
