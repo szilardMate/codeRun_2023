@@ -17,7 +17,7 @@ When evaluating the application only  fork\`s `master` branch will be taken into
 
 Please periodically commit changes.
 
-**As a first step please create a readme file containing all of the name of each team member.**
+**As a first step please create a readme file containing the name of each team member.**
 
 ## Resources
 There is a resource folder which contains a CSV file which will be required for one of the challenges.
